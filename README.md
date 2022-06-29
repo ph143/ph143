@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ph143
+- 👋 Hi, I’m Guru Jnana Phani
 - 👀 I’m interested in computers 
 - 🌱 I’m currently studying degree in B.Sc IOT
 - 💞️ I have full grip on managing and rectifing basic problems that were occur during system usage and can code using C and python
