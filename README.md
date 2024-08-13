@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Guru Jnana Phani
-- 👀 I’m interested in computers 
-- 🌱 I’m currently studying degree in B.Sc IOT
-- 💞️ I have full grip on managing and rectifing basic problems that were occur during system usage and can code using C and python
-- 📫 How to reach me ...jnanaphaniambadapudi@gmail.com
+- 👀 I’m interested in computers and electronics 
+- 📫 How to reach me ...jnanaphani.a@gmail.com
 
 <!---
 ph143/ph143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
